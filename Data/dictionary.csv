@@ -1,0 +1,714 @@
+columns,description,table
+B01001001,Total:,Sex by Age
+B01001002,Male:,Sex by Age
+B01001003,Male: Under 5 years,Sex by Age
+B01001004,Male: 5 to 9 years,Sex by Age
+B01001005,Male: 10 to 14 years,Sex by Age
+B01001006,Male: 15 to 17 years,Sex by Age
+B01001007,Male: 18 and 19 years,Sex by Age
+B01001008,Male: 20 years,Sex by Age
+B01001009,Male: 21 years,Sex by Age
+B01001010,Male: 22 to 24 years,Sex by Age
+B01001011,Male: 25 to 29 years,Sex by Age
+B01001012,Male: 30 to 34 years,Sex by Age
+B01001013,Male: 35 to 39 years,Sex by Age
+B01001014,Male: 40 to 44 years,Sex by Age
+B01001015,Male: 45 to 49 years,Sex by Age
+B01001016,Male: 50 to 54 years,Sex by Age
+B01001017,Male: 55 to 59 years,Sex by Age
+B01001018,Male: 60 and 61 years,Sex by Age
+B01001019,Male: 62 to 64 years,Sex by Age
+B01001020,Male: 65 and 66 years,Sex by Age
+B01001021,Male: 67 to 69 years,Sex by Age
+B01001022,Male: 70 to 74 years,Sex by Age
+B01001023,Male: 75 to 79 years,Sex by Age
+B01001024,Male: 80 to 84 years,Sex by Age
+B01001025,Male: 85 years and over,Sex by Age
+B01001026,Female:,Sex by Age
+B01001027,Female: Under 5 years,Sex by Age
+B01001028,Female: 5 to 9 years,Sex by Age
+B01001029,Female: 10 to 14 years,Sex by Age
+B01001030,Female: 15 to 17 years,Sex by Age
+B01001031,Female: 18 and 19 years,Sex by Age
+B01001032,Female: 20 years,Sex by Age
+B01001033,Female: 21 years,Sex by Age
+B01001034,Female: 22 to 24 years,Sex by Age
+B01001035,Female: 25 to 29 years,Sex by Age
+B01001036,Female: 30 to 34 years,Sex by Age
+B01001037,Female: 35 to 39 years,Sex by Age
+B01001038,Female: 40 to 44 years,Sex by Age
+B01001039,Female: 45 to 49 years,Sex by Age
+B01001040,Female: 50 to 54 years,Sex by Age
+B01001041,Female: 55 to 59 years,Sex by Age
+B01001042,Female: 60 and 61 years,Sex by Age
+B01001043,Female: 62 to 64 years,Sex by Age
+B01001044,Female: 65 and 66 years,Sex by Age
+B01001045,Female: 67 to 69 years,Sex by Age
+B01001046,Female: 70 to 74 years,Sex by Age
+B01001047,Female: 75 to 79 years,Sex by Age
+B01001048,Female: 80 to 84 years,Sex by Age
+B01001049,Female: 85 years and over,Sex by Age
+B01003001,Total,Total Population
+B08136001,Aggregate travel time to work (in minutes):,Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136002,"Car, truck, or van:",Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136003,"Car, truck, or van: Drove alone",Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136004,"Car, truck, or van: Carpooled:",Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136005,"Car, truck, or van: Carpooled: In 2-person carpool",Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136006,"Car, truck, or van: Carpooled: In 3-or-more-person carpool",Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136007,Public transportation (excluding taxicab):,Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136008,Public transportation (excluding taxicab): Bus or trolley bus,Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136009,"Public transportation (excluding taxicab): Streetcar or trolley car (carro publico in Puerto Rico), subway or elevated",Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136010,Public transportation (excluding taxicab): Railroad or ferryboat,Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136011,Walked,Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B08136012,"Taxicab, motorcycle, bicycle, or other means",Aggregate Travel Time to Work (In Minutes) of Workers by Means of Transportation to Work
+B09001001,Total:,Population Under 18 Years by Age
+B09001002,In households:,Population Under 18 Years by Age
+B09001003,In households: Under 3 years,Population Under 18 Years by Age
+B09001004,In households: 3 and 4 years,Population Under 18 Years by Age
+B09001005,In households: 5 years,Population Under 18 Years by Age
+B09001006,In households: 6 to 8 years,Population Under 18 Years by Age
+B09001007,In households: 9 to 11 years,Population Under 18 Years by Age
+B09001008,In households: 12 to 14 years,Population Under 18 Years by Age
+B09001009,In households: 15 to 17 years,Population Under 18 Years by Age
+B09001010,In group quarters,Population Under 18 Years by Age
+B11001001,Total:,Household Type (Including Living Alone)
+B11001002,Family households:,Household Type (Including Living Alone)
+B11001003,Family households: Married-couple family,Household Type (Including Living Alone)
+B11001004,Family households: Other family:,Household Type (Including Living Alone)
+B11001005,"Family households: Other family: Male householder, no wife present",Household Type (Including Living Alone)
+B11001006,"Family households: Other family: Female householder, no husband present",Household Type (Including Living Alone)
+B11001007,Nonfamily households:,Household Type (Including Living Alone)
+B11001008,Nonfamily households: Householder living alone,Household Type (Including Living Alone)
+B11001009,Nonfamily households: Householder not living alone,Household Type (Including Living Alone)
+B18101001,Total:,Sex by Age by Disability Status
+B18101002,Male:,Sex by Age by Disability Status
+B18101003,Male: Under 5 years:,Sex by Age by Disability Status
+B18101004,Male: Under 5 years: With a disability,Sex by Age by Disability Status
+B18101005,Male: Under 5 years: No disability,Sex by Age by Disability Status
+B18101006,Male: 5 to 17 years:,Sex by Age by Disability Status
+B18101007,Male: 5 to 17 years: With a disability,Sex by Age by Disability Status
+B18101008,Male: 5 to 17 years: No disability,Sex by Age by Disability Status
+B18101009,Male: 18 to 34 years:,Sex by Age by Disability Status
+B18101010,Male: 18 to 34 years: With a disability,Sex by Age by Disability Status
+B18101011,Male: 18 to 34 years: No disability,Sex by Age by Disability Status
+B18101012,Male: 35 to 64 years:,Sex by Age by Disability Status
+B18101013,Male: 35 to 64 years: With a disability,Sex by Age by Disability Status
+B18101014,Male: 35 to 64 years: No disability,Sex by Age by Disability Status
+B18101015,Male: 65 to 74 years:,Sex by Age by Disability Status
+B18101016,Male: 65 to 74 years: With a disability,Sex by Age by Disability Status
+B18101017,Male: 65 to 74 years: No disability,Sex by Age by Disability Status
+B18101018,Male: 75 years and over:,Sex by Age by Disability Status
+B18101019,Male: 75 years and over: With a disability,Sex by Age by Disability Status
+B18101020,Male: 75 years and over: No disability,Sex by Age by Disability Status
+B18101021,Female:,Sex by Age by Disability Status
+B18101022,Female: Under 5 years:,Sex by Age by Disability Status
+B18101023,Female: Under 5 years: With a disability,Sex by Age by Disability Status
+B18101024,Female: Under 5 years: No disability,Sex by Age by Disability Status
+B18101025,Female: 5 to 17 years:,Sex by Age by Disability Status
+B18101026,Female: 5 to 17 years: With a disability,Sex by Age by Disability Status
+B18101027,Female: 5 to 17 years: No disability,Sex by Age by Disability Status
+B18101028,Female: 18 to 34 years:,Sex by Age by Disability Status
+B18101029,Female: 18 to 34 years: With a disability,Sex by Age by Disability Status
+B18101030,Female: 18 to 34 years: No disability,Sex by Age by Disability Status
+B18101031,Female: 35 to 64 years:,Sex by Age by Disability Status
+B18101032,Female: 35 to 64 years: With a disability,Sex by Age by Disability Status
+B18101033,Female: 35 to 64 years: No disability,Sex by Age by Disability Status
+B18101034,Female: 65 to 74 years:,Sex by Age by Disability Status
+B18101035,Female: 65 to 74 years: With a disability,Sex by Age by Disability Status
+B18101036,Female: 65 to 74 years: No disability,Sex by Age by Disability Status
+B18101037,Female: 75 years and over:,Sex by Age by Disability Status
+B18101038,Female: 75 years and over: With a disability,Sex by Age by Disability Status
+B18101039,Female: 75 years and over: No disability,Sex by Age by Disability Status
+B19001001,Total:,Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001002,"Less than $10,000",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001003,"$10,000 to $14,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001004,"$15,000 to $19,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001005,"$20,000 to $24,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001006,"$25,000 to $29,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001007,"$30,000 to $34,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001008,"$35,000 to $39,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001009,"$40,000 to $44,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001010,"$45,000 to $49,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001011,"$50,000 to $59,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001012,"$60,000 to $74,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001013,"$75,000 to $99,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001014,"$100,000 to $124,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001015,"$125,000 to $149,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001016,"$150,000 to $199,999",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B19001017,"$200,000 or more",Household Income in the Past 12 Months (In 2017 Inflation-adjusted Dollars)
+B20001001,Total:,Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001002,Male:,Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001003,"Male: $1 to $2,499 or loss",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001004,"Male: $2,500 to $4,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001005,"Male: $5,000 to $7,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001006,"Male: $7,500 to $9,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001007,"Male: $10,000 to $12,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001008,"Male: $12,500 to $14,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001009,"Male: $15,000 to $17,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001010,"Male: $17,500 to $19,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001011,"Male: $20,000 to $22,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001012,"Male: $22,500 to $24,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001013,"Male: $25,000 to $29,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001014,"Male: $30,000 to $34,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001015,"Male: $35,000 to $39,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001016,"Male: $40,000 to $44,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001017,"Male: $45,000 to $49,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001018,"Male: $50,000 to $54,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001019,"Male: $55,000 to $64,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001020,"Male: $65,000 to $74,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001021,"Male: $75,000 to $99,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001022,"Male: $100,000 or more",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001023,Female:,Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001024,"Female: $1 to $2,499 or loss",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001025,"Female: $2,500 to $4,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001026,"Female: $5,000 to $7,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001027,"Female: $7,500 to $9,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001028,"Female: $10,000 to $12,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001029,"Female: $12,500 to $14,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001030,"Female: $15,000 to $17,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001031,"Female: $17,500 to $19,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001032,"Female: $20,000 to $22,499",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001033,"Female: $22,500 to $24,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001034,"Female: $25,000 to $29,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001035,"Female: $30,000 to $34,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001036,"Female: $35,000 to $39,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001037,"Female: $40,000 to $44,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001038,"Female: $45,000 to $49,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001039,"Female: $50,000 to $54,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001040,"Female: $55,000 to $64,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001041,"Female: $65,000 to $74,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001042,"Female: $75,000 to $99,999",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B20001043,"Female: $100,000 or more",Sex by Earnings in the Past 12 Months (In 2017 Inflation-adjusted Dollars) for the Population 16 Years and Over With Earnings in the Past 12 Months
+B23020000.5,Mean usual hours--,Mean Usual Hours Worked in the Past 12 Months for Workers 16 to 64 Years
+B23020001,Total:,Mean Usual Hours Worked in the Past 12 Months for Workers 16 to 64 Years
+B23020002,Male,Mean Usual Hours Worked in the Past 12 Months for Workers 16 to 64 Years
+B23020003,Female,Mean Usual Hours Worked in the Past 12 Months for Workers 16 to 64 Years
+B24124001,Total:,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124002,Chief executives,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124003,General and operations managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124004,Legislators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124005,Advertising and promotions managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124006,Marketing and sales managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124007,Public relations and fundraising managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124008,Administrative services managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124009,Computer and information systems managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124010,Financial managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124011,Compensation and benefits managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124012,Human resources managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124013,Training and development managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124014,Industrial production managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124015,Purchasing managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124016,"Transportation, storage, and distribution managers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124017,"Farmers, ranchers, and other agricultural managers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124018,Construction managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124019,Education administrators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124020,Architectural and engineering managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124021,Food service managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124022,Funeral service managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124023,Gaming managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124024,Lodging managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124025,Medical and health services managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124026,Natural sciences managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124027,Postmasters and mail superintendents,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124028,"Property, real estate, and community association managers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124029,Social and community service managers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124030,Emergency management directors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124031,"Managers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124032,"Agents and business managers of artists, performers, and athletes","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124033,"Buyers and purchasing agents, farm products","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124034,"Wholesale and retail buyers, except farm products","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124035,"Purchasing agents, except wholesale, retail, and farm products","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124036,"Claims adjusters, appraisers, examiners, and investigators","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124037,Compliance officers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124038,Cost estimators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124039,Human resources workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124040,"Compensation, benefits, and job analysis specialists","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124041,Training and development specialists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124042,Logisticians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124043,Management analysts,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124044,"Meeting, convention, and event planners","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124045,Fundraisers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124046,Market research analysts and marketing specialists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124047,"Business operations specialists, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124048,Accountants and auditors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124049,Appraisers and assessors of real estate,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124050,Budget analysts,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124051,Credit analysts,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124052,Financial analysts,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124053,Personal financial advisors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124054,Insurance underwriters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124055,Financial examiners,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124056,Credit counselors and loan officers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124057,"Tax examiners and collectors, and revenue agents","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124058,Tax preparers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124059,"Financial specialists, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124060,Computer and information research scientists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124061,Computer systems analysts,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124062,Information security analysts,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124063,Computer programmers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124064,"Software developers, applications and systems software","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124065,Web developers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124066,Computer support specialists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124067,Database administrators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124068,Network and computer systems administrators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124069,Computer network architects,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124070,"Computer occupations, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124071,Actuaries,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124072,Mathematicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124073,Operations research analysts,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124074,Statisticians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124075,Miscellaneous mathematical science occupations,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124076,"Architects, except naval","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124077,"Surveyors, cartographers, and photogrammetrists","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124078,Aerospace engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124079,Agricultural engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124080,Biomedical engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124081,Chemical engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124082,Civil engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124083,Computer hardware engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124084,Electrical and electronics engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124085,Environmental engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124086,"Industrial engineers, including health and safety","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124087,Marine engineers and naval architects,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124088,Materials engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124089,Mechanical engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124090,"Mining and geological engineers, including mining safety engineers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124091,Nuclear engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124092,Petroleum engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124093,"Engineers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124094,Drafters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124095,"Engineering technicians, except drafters","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124096,Surveying and mapping technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124097,Agricultural and food scientists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124098,Biological scientists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124099,Conservation scientists and foresters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124100,Medical scientists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124101,"Life scientists, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124102,Astronomers and physicists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124103,Atmospheric and space scientists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124104,Chemists and materials scientists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124105,Environmental scientists and geoscientists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124106,"Physical scientists, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124107,Economists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124108,Survey researchers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124109,Psychologists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124110,Urban and regional planners,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124111,"Miscellaneous social scientists and related workers, including sociologists","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124112,Agricultural and food science technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124113,Biological technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124114,Chemical technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124115,Geological and petroleum technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124116,Nuclear technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124117,Social science research assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124118,"Miscellaneous life, physical, and social science technicians","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124119,Counselors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124120,Social workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124121,Probation officers and correctional treatment specialists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124122,Social and human service assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124123,"Miscellaneous community and social service specialists, including health educators and community health workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124124,Clergy,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124125,"Directors, religious activities and education","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124126,"Religious workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124127,Lawyers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124128,Judicial law clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124129,"Judges, magistrates, and other judicial workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124130,Paralegals and legal assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124131,Miscellaneous legal support workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124132,Postsecondary teachers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124133,Preschool and kindergarten teachers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124134,Elementary and middle school teachers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124135,Secondary school teachers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124136,Special education teachers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124137,Other teachers and instructors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124138,"Archivists, curators, and museum technicians","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124139,Librarians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124140,Library technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124141,Teacher assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124142,"Other education, training, and library workers, except teacher assistants","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124143,Artists and related workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124144,Designers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124145,Actors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124146,Producers and directors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124147,"Athletes, coaches, umpires, and related workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124148,Dancers and choreographers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124149,"Musicians, singers, and related workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124150,"Entertainers and performers, sports and related workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124151,Announcers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124152,"News analysts, reporters and correspondents","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124153,Public relations specialists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124154,Editors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124155,Technical writers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124156,Writers and authors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124157,Miscellaneous media and communication workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124158,"Miscellaneous media and communications equipment workers, including broadcast and sound engineering technicians and radio operators","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124159,Photographers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124160,"Television, video, and motion picture camera operators and editors","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124161,Chiropractors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124162,Dentists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124163,Dietitians and nutritionists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124164,Optometrists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124165,Pharmacists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124166,Physicians and surgeons,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124167,Physician assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124168,Podiatrists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124169,Audiologists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124170,Occupational therapists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124171,Physical therapists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124172,Radiation therapists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124173,Recreational therapists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124174,Respiratory therapists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124175,Speech-language pathologists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124176,"Miscellaneous therapists, including exercise physiologists","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124177,Veterinarians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124178,Registered nurses,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124179,Nurse anesthetists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124180,Nurse midwives,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124181,Nurse practitioners,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124182,"Health diagnosing and treating practitioners, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124183,Clinical laboratory technologists and technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124184,Dental hygienists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124185,Diagnostic related technologists and technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124186,Emergency medical technicians and paramedics,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124187,Health practitioner support technologists and technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124188,Licensed practical and licensed vocational nurses,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124189,Medical records and health information technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124190,"Opticians, dispensing","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124191,Miscellaneous health technologists and technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124192,Other healthcare practitioners and technical occupations,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124193,"Nursing, psychiatric, and home health aides","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124194,Occupational therapy assistants and aides,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124195,Physical therapist assistants and aides,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124196,Massage therapists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124197,Dental assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124198,Medical assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124199,Medical transcriptionists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124200,Pharmacy aides,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124201,Veterinary assistants and laboratory animal caretakers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124202,Phlebotomists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124203,"Healthcare support workers, all other, including medical equipment preparers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124204,First-line supervisors of correctional officers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124205,First-line supervisors of police and detectives,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124206,First-line supervisors of fire fighting and prevention workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124207,"First-line supervisors of protective service workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124208,Firefighters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124209,Fire inspectors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124210,"Bailiffs, correctional officers, and jailers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124211,Detectives and criminal investigators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124212,Fish and game wardens,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124213,Parking enforcement workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124214,Police and sheriff's patrol officers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124215,Transit and railroad police,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124216,Animal control workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124217,Private detectives and investigators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124218,Security guards and gaming surveillance officers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124219,Crossing guards,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124220,Transportation security screeners,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124221,"Lifeguards and other recreational, and all other protective service workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124222,Chefs and head cooks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124223,First-line supervisors of food preparation and serving workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124224,Cooks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124225,Food preparation workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124226,Bartenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124227,"Combined food preparation and serving workers, including fast food","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124228,"Counter attendants, cafeteria, food concession, and coffee shop","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124229,Waiters and waitresses,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124230,"Food servers, nonrestaurant","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124231,Dining room and cafeteria attendants and bartender helpers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124232,Dishwashers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124233,"Hosts and hostesses, restaurant, lounge, and coffee shop","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124234,"Food preparation and serving related workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124235,First-line supervisors of housekeeping and janitorial workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124236,"First-line supervisors of landscaping, lawn service, and groundskeeping workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124237,Janitors and building cleaners,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124238,Maids and housekeeping cleaners,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124239,Pest control workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124240,Grounds maintenance workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124241,First-line supervisors of gaming workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124242,First-line supervisors of personal service workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124243,Animal trainers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124244,Nonfarm animal caretakers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124245,Gaming services workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124246,Motion picture projectionists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124247,"Ushers, lobby attendants, and ticket takers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124248,Miscellaneous entertainment attendants and related workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124249,Embalmers and funeral attendants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124250,"Morticians, undertakers, and funeral directors","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124251,Barbers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124252,"Hairdressers, hairstylists, and cosmetologists","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124253,Miscellaneous personal appearance workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124254,"Baggage porters, bellhops, and concierges","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124255,Tour and travel guides,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124256,Childcare workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124257,Personal care aides,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124258,Recreation and fitness workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124259,Residential advisors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124260,"Personal care and service workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124261,First-line supervisors of retail sales workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124262,First-line supervisors of non-retail sales workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124263,Cashiers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124264,Counter and rental clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124265,Parts salespersons,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124266,Retail salespersons,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124267,Advertising sales agents,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124268,Insurance sales agents,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124269,"Securities, commodities, and financial services sales agents","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124270,Travel agents,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124271,"Sales representatives, services, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124272,"Sales representatives, wholesale and manufacturing","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124273,"Models, demonstrators, and product promoters","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124274,Real estate brokers and sales agents,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124275,Sales engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124276,Telemarketers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124277,"Door-to-door sales workers, news and street vendors, and related workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124278,"Sales and related workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124279,First-line supervisors of office and administrative support workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124280,"Switchboard operators, including answering service","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124281,Telephone operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124282,"Communications equipment operators, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124283,Bill and account collectors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124284,Billing and posting clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124285,"Bookkeeping, accounting, and auditing clerks","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124286,Gaming cage workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124287,Payroll and timekeeping clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124288,Procurement clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124289,Tellers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124290,"Financial clerks, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124291,Brokerage clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124292,Correspondence clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124293,"Court, municipal, and license clerks","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124294,"Credit authorizers, checkers, and clerks","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124295,Customer service representatives,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124296,"Eligibility interviewers, government programs","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124297,File clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124298,"Hotel, motel, and resort desk clerks","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124299,"Interviewers, except eligibility and loan","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124300,"Library assistants, clerical","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124301,Loan interviewers and clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124302,New accounts clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124303,Order clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124304,"Human resources assistants, except payroll and timekeeping","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124305,Receptionists and information clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124306,Reservation and transportation ticket agents and travel clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124307,"Information and record clerks, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124308,Cargo and freight agents,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124309,Couriers and messengers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124310,Dispatchers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124311,"Meter readers, utilities","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124312,Postal service clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124313,Postal service mail carriers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124314,"Postal service mail sorters, processors, and processing machine operators","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124315,"Production, planning, and expediting clerks","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124316,"Shipping, receiving, and traffic clerks","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124317,Stock clerks and order fillers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124318,"Weighers, measurers, checkers, and samplers, recordkeeping","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124319,Secretaries and administrative assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124320,Computer operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124321,Data entry keyers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124322,Word processors and typists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124323,Desktop publishers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124324,Insurance claims and policy processing clerks,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124325,"Mail clerks and mail machine operators, except postal service","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124326,"Office clerks, general","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124327,"Office machine operators, except computer","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124328,Proofreaders and copy markers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124329,Statistical assistants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124330,"Office and administrative support workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124331,"First-line supervisors of farming, fishing, and forestry workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124332,Agricultural inspectors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124333,Animal breeders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124334,"Graders and sorters, agricultural products","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124335,Miscellaneous agricultural workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124336,Fishing and hunting workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124337,Forest and conservation workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124338,Logging workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124339,First-line supervisors of construction trades and extraction workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124340,Boilermakers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124341,"Brickmasons, blockmasons, and stonemasons","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124342,Carpenters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124343,"Carpet, floor, and tile installers and finishers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124344,"Cement masons, concrete finishers, and terrazzo workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124345,Construction laborers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124346,"Paving, surfacing, and tamping equipment operators","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124347,"Operating engineers and other construction equipment operators, including pile-driver operators","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124348,"Drywall installers, ceiling tile installers, and tapers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124349,Electricians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124350,Glaziers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124351,Insulation workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124352,"Painters, construction and maintenance","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124353,Paperhangers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124354,"Pipelayers, plumbers, pipefitters, and steamfitters","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124355,Plasterers and stucco masons,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124356,Reinforcing iron and rebar workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124357,Roofers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124358,Sheet metal workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124359,Structural iron and steel workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124360,"Helpers, construction trades","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124361,Construction and building inspectors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124362,Elevator installers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124363,Fence erectors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124364,Hazardous materials removal workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124365,Highway maintenance workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124366,Rail-track laying and maintenance equipment operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124367,Septic tank servicers and sewer pipe cleaners,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124368,"Miscellaneous construction and related workers, including solar photovoltaic installers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124369,"Derrick, rotary drill, and service unit operators, oil, gas, and mining","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124370,"Earth drillers, except oil and gas","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124371,"Explosives workers, ordnance handling experts, and blasters","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124372,Mining machine operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124373,"Roof bolters, mining","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124374,"Roustabouts, oil and gas","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124375,Helpers--extraction workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124376,Other extraction workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124377,"First-line supervisors of mechanics, installers, and repairers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124378,"Computer, automated teller, and office machine repairers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124379,Radio and telecommunications equipment installers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124380,Avionics technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124381,"Electric motor, power tool, and related repairers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124382,"Electrical and electronics installers and repairers, transportation equipment","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124383,"Electrical and electronics repairers, industrial and utility","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124384,"Electronic equipment installers and repairers, motor vehicles","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124385,Electronic home entertainment equipment installers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124386,Security and fire alarm systems installers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124387,Aircraft mechanics and service technicians,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124388,Automotive body and related repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124389,Automotive glass installers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124390,Automotive service technicians and mechanics,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124391,Bus and truck mechanics and diesel engine specialists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124392,Heavy vehicle and mobile equipment service technicians and mechanics,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124393,Small engine mechanics,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124394,"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124395,Control and valve installers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124396,"Heating, air conditioning, and refrigeration mechanics and installers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124397,Home appliance repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124398,Industrial and refractory machinery mechanics,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124399,"Maintenance and repair workers, general","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124400,"Maintenance workers, machinery","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124401,Millwrights,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124402,Electrical power-line installers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124403,Telecommunications line installers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124404,Precision instrument and equipment repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124405,"Coin, vending, and amusement machine servicers and repairers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124406,Commercial divers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124407,Locksmiths and safe repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124408,Manufactured building and mobile home installers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124409,Riggers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124410,Signal and track switch repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124411,"Helpers--installation, maintenance, and repair workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124412,"Other installation, maintenance, and repair workers, including wind turbine service technicians","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124413,First-line supervisors of production and operating workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124414,"Aircraft structure, surfaces, rigging, and systems assemblers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124415,"Electrical, electronics, and electromechanical assemblers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124416,Engine and other machine assemblers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124417,Structural metal fabricators and fitters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124418,Miscellaneous assemblers and fabricators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124419,Bakers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124420,"Butchers and other meat, poultry, and fish processing workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124421,"Food and tobacco roasting, baking, and drying machine operators and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124422,Food batchmakers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124423,Food cooking machine operators and tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124424,"Food processing workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124425,Computer control programmers and operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124426,"Extruding and drawing machine setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124427,"Forging machine setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124428,"Rolling machine setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124429,"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124430,"Drilling and boring machine tool setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124431,"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124432,"Lathe and turning machine tool setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124433,"Milling and planing machine setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124434,Machinists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124435,"Metal furnace operators, tenders, pourers, and casters","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124436,"Model makers and patternmakers, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124437,"Molders and molding machine setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124438,"Multiple machine tool setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124439,Tool and die makers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124440,"Welding, soldering, and brazing workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124441,"Heat treating equipment setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124442,"Layout workers, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124443,"Plating and coating machine setters, operators, and tenders, metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124444,"Tool grinders, filers, and sharpeners","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124445,"Metal workers and plastic workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124446,Prepress technicians and workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124447,"Printing workers, except prepress technicians and workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124448,Laundry and dry-cleaning workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124449,"Pressers, textile, garment, and related materials","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124450,Sewing machine operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124451,Shoe and leather workers and repairers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124452,Shoe machine operators and tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124453,"Tailors, dressmakers, and sewers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124454,Textile bleaching and dyeing machine operators and tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124455,"Textile cutting machine setters, operators, and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124456,"Textile knitting and weaving machine setters, operators, and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124457,"Textile winding, twisting, and drawing out machine setters, operators, and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124458,Fabric and apparel patternmakers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124459,Upholsterers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124460,"Miscellaneous textile, apparel, and furnishings workers, including extruding and forming machine setters, operators, and tenders, synthetic and glass fibers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124461,Cabinetmakers and bench carpenters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124462,Furniture finishers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124463,"Sawing machine setters, operators, and tenders, wood","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124464,"Woodworking machine setters, operators, and tenders, except sawing","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124465,"Miscellaneous woodworkers, including model makers and patternmakers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124466,"Power plant operators, distributors, and dispatchers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124467,Stationary engineers and boiler operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124468,Water and wastewater treatment plant and system operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124469,Miscellaneous plant and system operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124470,"Chemical processing machine setters, operators, and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124471,"Crushing, grinding, polishing, mixing, and blending workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124472,Cutting workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124473,"Extruding, forming, pressing, and compacting machine setters, operators, and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124474,"Furnace, kiln, oven, drier, and kettle operators and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124475,"Inspectors, testers, sorters, samplers, and weighers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124476,Jewelers and precious stone and metal workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124477,"Medical, dental, and ophthalmic laboratory technicians","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124478,Packaging and filling machine operators and tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124479,Painting workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124480,Photographic process workers and processing machine operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124481,Semiconductor processors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124482,Adhesive bonding machine operators and tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124483,"Cleaning, washing, and metal pickling equipment operators and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124484,Cooling and freezing equipment operators and tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124485,Etchers and engravers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124486,"Molders, shapers, and casters, except metal and plastic","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124487,"Paper goods machine setters, operators, and tenders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124488,Tire builders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124489,Helpers--production workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124490,"Production workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124491,Supervisors of transportation and material moving workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124492,Aircraft pilots and flight engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124493,Air traffic controllers and airfield operations specialists,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124494,Flight attendants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124495,"Ambulance drivers and attendants, except emergency medical technicians","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124496,Bus drivers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124497,Driver/sales workers and truck drivers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124498,Taxi drivers and chauffeurs,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124499,"Motor vehicle operators, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124500,Locomotive engineers and operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124501,"Railroad brake, signal, and switch operators","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124502,Railroad conductors and yardmasters,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124503,"Subway, streetcar, and other rail transportation workers","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124504,Sailors and marine oilers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124505,Ship and boat captains and operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124506,Ship engineers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124507,Bridge and lock tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124508,Parking lot attendants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124509,Automotive and watercraft service attendants,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124510,Transportation inspectors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124511,"Transportation attendants, except flight attendants","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124512,Other transportation workers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124513,Conveyor operators and tenders,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124514,Crane and tower operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124515,"Dredge, excavating, and loading machine operators","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124516,Hoist and winch operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124517,Industrial truck and tractor operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124518,Cleaners of vehicles and equipment,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124519,"Laborers and freight, stock, and material movers, hand","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124520,Machine feeders and offbearers,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124521,"Packers and packagers, hand","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124522,Pumping station operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124523,Refuse and recyclable material collectors,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124524,Mine shuttle car operators,"Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124525,"Tank car, truck, and ship loaders","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B24124526,"Material moving workers, all other","Detailed Occupation for the Full-time, Year-round Civilian Employed Population 16 Years and Over"
+B992705001,Total:,Allocation of Direct-purchase Health Insurance
+B992705002,Allocated,Allocation of Direct-purchase Health Insurance
+B992705003,Not allocated,Allocation of Direct-purchase Health Insurance
